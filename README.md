@@ -29,7 +29,7 @@ Install docker and run `docker compose up --build -d` in terminal. That is all y
 - Our contributors (you can be one of them to. Go to issues section and see if you can send a PR)
 - Built on top of [katana-skipper workflow engine](https://github.com/katanaml/katana-skipper).
 - OCR powered by [MMOCR](https://github.com/open-mmlab/mmocr)
-- Data annotation with [labelstudio](https://github.com/heartexlabs/label-studio)
+- Data annotation with [Label Studio](https://github.com/heartexlabs/label-studio)
 
 ### Licence
 
